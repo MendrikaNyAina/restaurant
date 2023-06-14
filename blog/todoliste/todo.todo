@@ -1,0 +1,388 @@
+{
+  "todotree": {
+    "tree": [
+      {
+        "key": 1680193982470,
+        "children": [
+          {
+            "key": 1680194020853,
+            "children": [
+              {
+                "key": 1680194578051,
+                "children": [],
+                "todo": {
+                  "content": "",
+                  "id": 1680194578051,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194578051
+                }
+              }
+            ],
+            "todo": {
+              "content": "table",
+              "id": 1680194020853,
+              "level": "default",
+              "done": false,
+              "start": 1680194020853
+            }
+          }
+        ],
+        "todo": {
+          "content": "base",
+          "id": 1680193982470,
+          "level": "default",
+          "done": false,
+          "start": 1680193982470
+        }
+      },
+      {
+        "key": 1680194003771,
+        "children": [
+          {
+            "key": 1680194027748,
+            "children": [
+              {
+                "key": 1680194057173,
+                "children": [],
+                "todo": {
+                  "content": "ajout d'ingredient et de stock de base",
+                  "id": 1680194057173,
+                  "level": "default",
+                  "done": true,
+                  "start": 1680194057173,
+                  "focus": false,
+                  "end": 1682490199878
+                }
+              },
+              {
+                "key": 1680194097453,
+                "children": [],
+                "todo": {
+                  "content": "liste des ingredients avec le stock",
+                  "id": 1680194097453,
+                  "level": "default",
+                  "done": true,
+                  "start": 1680194097453,
+                  "focus": false,
+                  "end": 1682488705102
+                }
+              },
+              {
+                "key": 1680194124083,
+                "children": [],
+                "todo": {
+                  "content": "definition d'un stock sur un jour particulier",
+                  "id": 1680194124083,
+                  "level": "default",
+                  "done": true,
+                  "start": 1680194124083,
+                  "focus": false,
+                  "end": 1682490201963
+                }
+              },
+              {
+                "key": 1682490208680,
+                "children": [],
+                "todo": {
+                  "content": "voir le stock",
+                  "id": 1682490208680,
+                  "level": "default",
+                  "done": false,
+                  "start": 1682490208680
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion des ingredients, et du stock",
+              "id": 1680194027748,
+              "level": "default",
+              "done": false,
+              "start": 1680194027748
+            }
+          },
+          {
+            "key": 1680194183326,
+            "children": [
+              {
+                "key": 1680194191910,
+                "children": [],
+                "todo": {
+                  "content": "insertion de commandes d'un client",
+                  "id": 1680194191910,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194191910
+                }
+              },
+              {
+                "key": 1680194202342,
+                "children": [],
+                "todo": {
+                  "content": "proposition de commande d'un client, si c'est ok, voir un debut de facturation",
+                  "id": 1680194202342,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194202342
+                }
+              },
+              {
+                "key": 1680194241334,
+                "children": [],
+                "todo": {
+                  "content": "liste de commande et etat de paie",
+                  "id": 1680194241334,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194241334
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion des commandes",
+              "id": 1680194183326,
+              "level": "default",
+              "done": false,
+              "start": 1680194183326
+            }
+          },
+          {
+            "key": 1680194250900,
+            "children": [
+              {
+                "key": 1680194260286,
+                "children": [],
+                "todo": {
+                  "content": "facturation d'une commande, avec remise?",
+                  "id": 1680194260286,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194260286
+                }
+              },
+              {
+                "key": 1680194271050,
+                "children": [],
+                "todo": {
+                  "content": "payer une commande",
+                  "id": 1680194271050,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194271050
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion de facturation et paie",
+              "id": 1680194250900,
+              "level": "default",
+              "done": false,
+              "start": 1680194250900
+            }
+          },
+          {
+            "key": 1680194427913,
+            "children": [
+              {
+                "key": 1680194439958,
+                "children": [],
+                "todo": {
+                  "content": "ajout de plats, et des quantites d'ingredient les plus utilise",
+                  "id": 1680194439958,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194439958
+                }
+              },
+              {
+                "key": 1680194456186,
+                "children": [],
+                "todo": {
+                  "content": "liste des plats",
+                  "id": 1680194456186,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194456186
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion des plats",
+              "id": 1680194427913,
+              "level": "default",
+              "done": false,
+              "start": 1680194427913
+            }
+          },
+          {
+            "key": 1680194276125,
+            "children": [
+              {
+                "key": 1680194346619,
+                "children": [],
+                "todo": {
+                  "content": "produits le plat le plus commande(circle)",
+                  "id": 1680194346619,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194346619
+                }
+              },
+              {
+                "key": 1680194337799,
+                "children": [],
+                "todo": {
+                  "content": "chiffre d'affaire par jour, mois, annee",
+                  "id": 1680194337799,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194337799
+                }
+              },
+              {
+                "key": 1680194480775,
+                "children": [],
+                "todo": {
+                  "content": "benefice par jour, mois, annee",
+                  "id": 1680194480775,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194480775
+                }
+              }
+            ],
+            "todo": {
+              "content": "etat d'analyse et de statistique",
+              "id": 1680194276125,
+              "level": "default",
+              "done": false,
+              "start": 1680194276125
+            }
+          },
+          {
+            "key": 1680194503378,
+            "children": [
+              {
+                "key": 1680194509407,
+                "children": [],
+                "todo": {
+                  "content": "insertion de loyer, de salaire des employes,...",
+                  "id": 1680194509407,
+                  "level": "default",
+                  "done": false,
+                  "start": 1680194509407
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion des depences",
+              "id": 1680194503378,
+              "level": "default",
+              "done": false,
+              "start": 1680194503378
+            }
+          }
+        ],
+        "todo": {
+          "content": "metier",
+          "id": 1680194003771,
+          "level": "default",
+          "done": false,
+          "start": 1680194003771
+        }
+      },
+      {
+        "key": 1680194011628,
+        "children": [
+          {
+            "key": 1680194041487,
+            "children": [],
+            "todo": {
+              "content": "page inventaire du stock",
+              "id": 1680194041487,
+              "level": "default",
+              "done": true,
+              "start": 1680194041487,
+              "focus": false,
+              "end": 1682490222214
+            }
+          },
+          {
+            "key": 1682492567664,
+            "children": [
+              {
+                "key": 1682492609296,
+                "children": [],
+                "todo": {
+                  "content": "liste des plat",
+                  "id": 1682492609296,
+                  "level": "default",
+                  "done": false,
+                  "start": 1682492609296
+                }
+              },
+              {
+                "key": 1682492588414,
+                "children": [],
+                "todo": {
+                  "content": "insertion de plat",
+                  "id": 1682492588414,
+                  "level": "default",
+                  "done": false,
+                  "start": 1682492588414
+                }
+              }
+            ],
+            "todo": {
+              "content": "gestion de plat",
+              "id": 1682492567664,
+              "level": "default",
+              "done": false,
+              "start": 1682492567664
+            }
+          }
+        ],
+        "todo": {
+          "content": "affichage",
+          "id": 1680194011628,
+          "level": "default",
+          "done": false,
+          "start": 1680194011628
+        }
+      },
+      {
+        "key": 1680194579883,
+        "children": [],
+        "todo": {
+          "content": "",
+          "id": 1680194579883,
+          "level": "default",
+          "done": false,
+          "start": 1680194579883
+        }
+      }
+    ],
+    "expandKeys": [
+      1680194337799,
+      1680194276125,
+      1680193982470,
+      1680194003771,
+      1680194011628,
+      1680194027748,
+      1680194183326,
+      1682492567664,
+      1680194427913,
+      1682492588414
+    ],
+    "schema": "https://github.com/Saber2pr/vsc-ext-todolist/blob/master/src/api/type.ts#L3",
+    "add_mode": "bottom",
+    "virtual": false,
+    "showLine": false,
+    "playFontSize": 24,
+    "title": "todo",
+    "autoSort": false,
+    "showEndTime": false,
+    "lang": "en",
+    "version": "1682492625792"
+  }
+}
